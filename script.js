@@ -1,6 +1,6 @@
 $(document).ready(function() {
   const apiRoot = 'https://gentle-inlet-57056.herokuapp.com/v1/task/';
-  const trelloApiRoot = 'https://trello.com/b/GEuG9j2Z';
+  const trelloApiRoot = 'https://trello.com/b/GEuG9j2Z/';
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   const $tasksContainer = $('[data-tasks-container]');
 
